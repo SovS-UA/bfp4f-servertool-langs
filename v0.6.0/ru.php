@@ -21,7 +21,7 @@
  
 $lang = array(
         
-        // Language information
+        // Language information 
         'lang_name' => 'Russian / Russia',
         'lang_name_short' => 'RU',
         'lang_charset' => 'utf8',
